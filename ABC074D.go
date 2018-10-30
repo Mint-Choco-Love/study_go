@@ -9,7 +9,7 @@ func main() {
   const MAX = math.MaxInt32
   var N int
   fmt.Scanf("%d", &N)
-  
+
   var dist [301][301]int
   var input [301][301]int
 
